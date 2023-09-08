@@ -9,7 +9,7 @@ To keep things simple, this repository is not setup as a mono-repo.
 Instead, there is a branch per example.
 
 ## The examples
-TODO.
+- [A TypeScript lambda](https://github.com/guardian/examples/tree/example-typescript-lambda)
 
 ## Adding an example
 TODO.
